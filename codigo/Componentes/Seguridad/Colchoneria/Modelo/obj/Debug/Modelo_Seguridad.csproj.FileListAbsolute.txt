@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
