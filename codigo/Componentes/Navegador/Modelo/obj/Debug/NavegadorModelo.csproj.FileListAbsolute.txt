@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.dll
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+C:\Users\pc\Desktop\PrototipoEF\codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb
