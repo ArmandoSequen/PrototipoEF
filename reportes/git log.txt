@@ -1,0 +1,92 @@
+pc@armando MINGW64 ~/Desktop/prueba/PrototipoEF (main)
+$ git log
+commit fa6069898042b5b4c17d3ced13f47c895dd51e00 (HEAD -> main, origin/main, origin/HEAD)
+Merge: ba47bab 8a57cc6
+Author: Armando P Sequen <109443656+ArmandoSequen@users.noreply.github.com>
+Date:   Tue Nov 15 14:33:23 2022 -0600
+
+    Merge pull request #1 from ArmandoSequen/RamaDiagrama0901191801
+
+    Rama diagrama0901191801
+
+commit ba47babedf68d275d52aecb3be4971079d152878
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:22:23 2022 -0600
+
+    final cambios
+
+commit bc340666a0f8374d94bb14a2d6fb61dc76da3d9c
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:14:59 2022 -0600
+
+    mantenimientos bitacora y reportes
+
+commit 8a57cc6a6079261378542cef6e717d312ebddec1 (origin/RamaDiagrama0901191801)
+:...skipping...
+commit fa6069898042b5b4c17d3ced13f47c895dd51e00 (HEAD -> main, origin/main, origin/HEAD)
+Merge: ba47bab 8a57cc6
+Author: Armando P Sequen <109443656+ArmandoSequen@users.noreply.github.com>
+Date:   Tue Nov 15 14:33:23 2022 -0600
+
+    Merge pull request #1 from ArmandoSequen/RamaDiagrama0901191801
+
+    Rama diagrama0901191801
+
+commit ba47babedf68d275d52aecb3be4971079d152878
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:22:23 2022 -0600
+
+    final cambios
+
+commit bc340666a0f8374d94bb14a2d6fb61dc76da3d9c
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:14:59 2022 -0600
+
+    mantenimientos bitacora y reportes
+
+commit 8a57cc6a6079261378542cef6e717d312ebddec1 (origin/RamaDiagrama0901191801)
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:10:35 2022 -0600
+
+    diagrama relacional
+
+:...skipping...
+commit fa6069898042b5b4c17d3ced13f47c895dd51e00 (HEAD -> main, origin/main, origin/HEAD)
+Merge: ba47bab 8a57cc6
+Author: Armando P Sequen <109443656+ArmandoSequen@users.noreply.github.com>
+Date:   Tue Nov 15 14:33:23 2022 -0600
+
+    Merge pull request #1 from ArmandoSequen/RamaDiagrama0901191801
+
+    Rama diagrama0901191801
+
+commit ba47babedf68d275d52aecb3be4971079d152878
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:22:23 2022 -0600
+
+    final cambios
+
+commit bc340666a0f8374d94bb14a2d6fb61dc76da3d9c
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:14:59 2022 -0600
+
+    mantenimientos bitacora y reportes
+
+commit 8a57cc6a6079261378542cef6e717d312ebddec1 (origin/RamaDiagrama0901191801)
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 14:10:35 2022 -0600
+
+    diagrama relacional
+
+commit 1cc6eaf4374f6676fd18b701cf655fa276633823 (origin/RamaMantenimientos0901191801)
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 09:47:52 2022 -0600
+
+    diagramas
+
+commit b3b704b76b1e8fd74cc06963b7449a5703f932ce
+Author: armando sequen <armando.pss26@gmail.com>
+Date:   Tue Nov 15 09:44:52 2022 -0600
+
+    diagramas caso de uso, clases e hijo
+:
